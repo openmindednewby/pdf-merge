@@ -1,6 +1,6 @@
 {
   "name": "@dloizides/pdf-merge",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Merge PDFs and PNG/JPEG images into one PDF. PDF pages are copied as-is so text stays selectable; each image becomes one page sized to the image.",
   "keywords": [
     "pdf",
